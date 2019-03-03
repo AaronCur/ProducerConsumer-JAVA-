@@ -1,5 +1,5 @@
 import java.util.Random;
-/*w w w.  j a  v a  2s. c o m*/
+
 class Consumer extends Thread {
   private Buffer buffer;
 
